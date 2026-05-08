@@ -3,7 +3,7 @@
 Projeto desenvolvido para praticar os fundamentos de **Orientação a Objetos** com Java.
 
 ## Funcionalidades
-
+ 
 - Adicionar tarefas
 - Listar todas as tarefas com status (pendente ou concluída)
 - Marcar tarefa como concluída
@@ -44,3 +44,4 @@ src/
 ## Tecnologias
 
 - Java
+ 
