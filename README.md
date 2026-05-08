@@ -12,17 +12,17 @@ Projeto desenvolvido para praticar os fundamentos de **Orientação a Objetos** 
 ## Como executar
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/kayky-coder/lista-de-tarefas-java.git
-   ```
+```bash
+git clone https://github.com/kayky-coder/lista-de-tarefas-java.git
+```
 2. Compile os arquivos:
-   ```bash
-   javac src/*.java -d bin
-   ```
+```bash
+javac src/*.java -d bin
+```
 3. Execute o programa:
-   ```bash
-   java -cp bin Main
-   ```
+```bash
+java -cp bin Main
+```
 
 ## Estrutura do projeto
 
